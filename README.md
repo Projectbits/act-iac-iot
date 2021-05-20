@@ -5,7 +5,7 @@ Thank you for your interest in participating in the ACT-IAC Emerging Technology 
 ## Repository
 We utalize Box as our document and information repository
 Please click this link to confirm that you have access
-[](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
+[Box Access](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
 
 ## Connect with our Members
 You can find the roster here. Based on your interest, availability, and experience, we expect there will be three types of members of this group.  Please review the following roles below:
