@@ -25,7 +25,8 @@ Please check your row in this spreadsheet and make any additions or changes
 ## Deliverables
 
 ### Primer Signup
-Primer Signup Sheet - Dont be bashful - sign up here for your sections of interest (This spreadsheet is easire to edit if you download it since the alignment has limited office online support
+Primer Signup Sheet - Dont be bashful - sign up here for your sections of interest (This spreadsheet is easire to edit if you download it since the alignment has limited office online support.
+
 [Primer Signup](https://macrosolutions.box.com/s/prtcw1ja7cns8a6bv0htlg3j1gwlb3ty)
 
 ### Primer Working Draft
@@ -51,23 +52,28 @@ Watch a video on real-time co-authoring in Box
 ## Resources - Information, Sources, Documents
 
 Here is the some reading to help provide a better background:
-•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST [NIST](https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition)
+•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST 
+[NIST](https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition)
 
-•	Hardware-Enabled Security for Server Platforms: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases | CSRC (nist.gov) [NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
+•	Hardware-Enabled Security for Server Platforms: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases | CSRC (nist.gov) 
+[NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
 •	Cognitive Mobile Edge Computing | NIST 
 [NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
-•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | [NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
+•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | 
+[NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
 •	Draft SP 800-213, IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements |pdf 
 [NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
+### Folder Access
 Look for this list to expand in our Resources folder which can be accessed with this link. 
 [Resources Folder](https://macrosolutions.box.com/s/qcn94hbhdx4vcz8iall01fa7bvirh5o7)
 
 ## Code of Conduct
 Please review the ACT-IAC Code of Conduct
+
 [ACT-IAC Code of Conduct](https://macrosolutions.box.com/s/7jr1zt0t4m766dd7he2f28v8y1edtjcg)
 
 ## ACT-IAC COMMUNITIES OF INTEREST (COI)
