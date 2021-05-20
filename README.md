@@ -18,7 +18,7 @@ ET COI Team Folder > ACT-IAC IOT > Members
 
 As we move forward with this working group, we would like to get to know everyone a little better.  If you have a bio, we invite you to post it in this area.  Or perhaps just a screen shot of your LinkedIN Profile or a couple of sentences about you (your background, experience, interest, etc.)
 Here is a direct link to the working group team roster excel file: 
-https://macrosolutions.box.com/s/p03ebs81kn6u65x56st98fy6pautf4yb
+[Team Roster](https://macrosolutions.box.com/s/p03ebs81kn6u65x56st98fy6pautf4yb)
 
 Please check your row in this spreadsheet and make any additions or changes
 
@@ -26,10 +26,10 @@ Please check your row in this spreadsheet and make any additions or changes
 
 ### Primer Signup
 Primer Signup Sheet - Dont be bashful - sign up here for your sections of interest (This spreadsheet is easire to edit if you download it since the alignment has limited office online support
-https://macrosolutions.box.com/s/prtcw1ja7cns8a6bv0htlg3j1gwlb3ty
+[Primer Signup](https://macrosolutions.box.com/s/prtcw1ja7cns8a6bv0htlg3j1gwlb3ty)
 
 ### Primer Working Draft
-https://macrosolutions.box.com/s/bjb1qsa1eh3wdi8py3dkp0xe07vqux1h
+[Primer Draft](https://macrosolutions.box.com/s/bjb1qsa1eh3wdi8py3dkp0xe07vqux1h)
 
 ### Collaborate on box
 Collaborate live on Microsoft Office documents in Box
@@ -46,28 +46,29 @@ All edits are automatically saved, avoiding version conflict. It’s easy to pul
 For more details:
 
 Watch a video on real-time co-authoring in Box
-https://youtu.be/4PGxWpyU1os
+[Co-Author in Box](]https://youtu.be/4PGxWpyU1os)
 
 ## Resources - Information, Sources, Documents
 
 Here is the some reading to help provide a better background:
-•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST  https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition
+•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST [NIST](https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition)
 
-•	Hardware-Enabled Security for Server Platforms: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases | CSRC (nist.gov) https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Hardware-Enabled Security for Server Platforms: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases | CSRC (nist.gov) [NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
-•	Cognitive Mobile Edge Computing | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft 
+•	Cognitive Mobile Edge Computing | NIST 
+[NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
-•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | [NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
-•	Draft SP 800-213, IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements |pdf NIST
-https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Draft SP 800-213, IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements |pdf 
+[NIST](https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft)
 
 Look for this list to expand in our Resources folder which can be accessed with this link. 
-https://macrosolutions.box.com/s/qcn94hbhdx4vcz8iall01fa7bvirh5o7
+[Resources Folder](https://macrosolutions.box.com/s/qcn94hbhdx4vcz8iall01fa7bvirh5o7)
 
 ## Code of Conduct
 Please review the ACT-IAC Code of Conduct
-https://macrosolutions.box.com/s/7jr1zt0t4m766dd7he2f28v8y1edtjcg
+[ACT-IAC Code of Conduct](https://macrosolutions.box.com/s/7jr1zt0t4m766dd7he2f28v8y1edtjcg)
 
 ## ACT-IAC COMMUNITIES OF INTEREST (COI)
  
@@ -78,10 +79,10 @@ The COIs provide a government-driven, objective, vendor-neutral ethical forum wh
  For additional information, please contact Nancy Delanoche, Director for Communities of Interest
 
 Click here to view COI Achievements and Deliverables.
-https://www.actiac.org/participation/communities-interest
+[COI Achievements and Deliverable](https://www.actiac.org/participation/communities-interest)
 
 ### Support or Contact
-Don Lovett don@projectbits.com 703-434-1660 Mobile https://www.linkedin.com/in/donlovett/
+Don Lovett don@projectbits.com 703-434-1660 Mobile [Don Lovett LinkedIn](https://www.linkedin.com/in/donlovett/)
 
 ### Author
 Jessica (Tavasti) Davis  
