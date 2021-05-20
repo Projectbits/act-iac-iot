@@ -46,7 +46,7 @@ All edits are automatically saved, avoiding version conflict. It’s easy to pul
 For more details:
 
 Watch a video on real-time co-authoring in Box
-[Co-Author in Box](]https://youtu.be/4PGxWpyU1os)
+[Co-Author in Box](https://youtu.be/4PGxWpyU1os)
 
 ## Resources - Information, Sources, Documents
 
