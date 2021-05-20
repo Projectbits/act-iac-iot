@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Welcome to the IOT and Smart Cities Working Group!
 
-You can use the [editor on GitHub](https://github.com/Projectbits/act-iac-iot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for your interest in participating in the ACT-IAC Emerging Technology IoT and Smart City Working Group.  The scope of this group includes Industrial Internet of Things, Sensors, Actuators, Some Consumer Devices and even Edge and Fog Computing.  The goal will be to share use cases for IoT and Edge Computing that will support the federal government during this unprecedented time, especially with a lens for cyber security.  We will also think about use cases for scenarios that will drive the mission of government during and post the pandemic.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Repository
+We utalize Box as our document and information repository
+Please click this link to confirm that you have access
+https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm
 
-### Markdown
+## Connect with our Members
+You can find the roster here. Based on your interest, availability, and experience, we expect there will be three types of members of this group.  Please review the following roles below:
+1.	Co-Admin: The Co-Admins will lead the overall strategy and vision for the group.  They will handle the logistics (meeting scheduling, note taking, etc.) and will serve as the main POCs into the broader ACT-IAC community.  
+2.	Contributor: Contributors will have a leadership role of the working group based on the different criteria.   They will be the leading voice for the different sub-working groups.  
+3.	Member:  Members will participate in the groups led by the contributors and provide feedback.  They will review our deliverables and contribute their insights to the broader group. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can use the team link above for Box and navigate to: 
+ET COI Team Folder > ACT-IAC IOT > Members
 
-```markdown
-Syntax highlighted code block
+As we move forward with this working group, we would like to get to know everyone a little better.  If you have a bio, we invite you to post it in this area.  Or perhaps just a screen shot of your LinkedIN Profile or a couple of sentences about you (your background, experience, interest, etc.)
+Here is a direct link to the working group team roster excel file: 
+https://macrosolutions.box.com/s/p03ebs81kn6u65x56st98fy6pautf4yb
 
-# Header 1
-## Header 2
-### Header 3
+please check your row in this spreadsheet and make any additions or changes
 
-- Bulleted
-- List
+## Resources - Information, Sources, Documents
 
-1. Numbered
-2. List
+Here is the some reading to help provide a better background:
+•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST  https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition
+•	Hardware-Enabled Security for Server Platforms: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases | CSRC (nist.gov) https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Cognitive Mobile Edge Computing | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Draft SP 800-213, IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements |pdf NIST
+https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
 
-**Bold** and _Italic_ and `Code` text
+Look for this list to expand in our Resources folder which can be accessed with this link. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Projectbits/act-iac-iot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Code of Conduct
+Please review the ACT-IAC Code of Conduct
+https://macrosolutions.box.com/s/7jr1zt0t4m766dd7he2f28v8y1edtjcg
 
 ### Support or Contact
+Don Lovett don@projectbits.com 703-434-1660 Mobile https://www.linkedin.com/in/donlovett/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Author
+Jessica (Tavasti) Davis  
+created: 1621521351376
+
+
+
