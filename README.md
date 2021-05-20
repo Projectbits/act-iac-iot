@@ -27,7 +27,8 @@ please check your row in this spreadsheet and make any additions or changes
 Here is the some reading to help provide a better background:
 •	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST  https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition
 •	Hardware-Enabled Security for Server Platforms: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases | CSRC (nist.gov) https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
-•	Cognitive Mobile Edge Computing | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
+•	Cognitive Mobile Edge Computing | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft 
+
 •	Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
 •	Draft SP 800-213, IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements |pdf NIST
 https://csrc.nist.gov/publications/detail/white-paper/2020/04/28/hardware-enabled-security-for-server-platforms/draft
