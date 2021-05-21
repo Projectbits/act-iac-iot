@@ -25,12 +25,18 @@ One tap mobile
 +16468287666,,1600857507#,,,,*757776# US (New York)
 
 Upcoming Meetings Noon every other Friday
-* 5/21
+
+* 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
 * 6/4
 * 6/18
 * 7/2 (4th weekend subject to change)
 
+## Plan
 
+Host April COI 20th Event
+Publish Primer (Current Goal)
+Publish Playbook (TBD)
+COI Session on IoT Security (TBD)
 
 ## Connect with our Members
 You can find the roster here. Based on your interest, availability, and experience, we expect there will be three types of members of this group.  Please review the following roles below:
@@ -96,10 +102,20 @@ Here is the some reading to help provide a better background:
 Look for this list to expand in our Resources folder which can be accessed with this link. 
 [Resources Folder](https://macrosolutions.box.com/s/qcn94hbhdx4vcz8iall01fa7bvirh5o7)
 
-## Code of Conduct
-Please review the ACT-IAC Code of Conduct
+## Workgroup Governance
+Our working group is managed undera transparent and open approach with respect for the contribution of our members.
 
+### Charter
+Please review our Working Group Charter
+
+[ACT-IAC Working Group Charter](https://macrosolutions.box.com/s/lywpfpdtn5c0kw7af0q7yty35f4zqhwi)
+
+
+### Code of Conduct
+
+Please review the ACT-IAC Code of Conduct
 [ACT-IAC Code of Conduct](https://macrosolutions.box.com/s/7jr1zt0t4m766dd7he2f28v8y1edtjcg)
+
 
 ## ACT-IAC COMMUNITIES OF INTEREST (COI)
  
