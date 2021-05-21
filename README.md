@@ -134,6 +134,7 @@ The COIs provide a government-driven, objective, vendor-neutral ethical forum wh
  [Nancy Delanoche ndelanoche@actiac.org](mailto:ndelanoche@actiac.org?subject=ACT-IAC%20COI%20IoT)
  
  ### LinkedIn ACT-IAC COI
+
  [LinkedIn ACT-IAC COI](https://www.linkedin.com/showcase/emerging-technology-coi/)
 
 
