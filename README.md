@@ -7,6 +7,29 @@ We utalize Box as our document and information repository
 Please click this link to confirm that you have access
 [Box Access](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
 
+## Meeting Details
+
+Here are the meeting details:
+
+Regular meeting of the ACT-IAC IoT Working Group (changed cadence to biweekly)
+
+ACT IAC is inviting you to a scheduled ZoomGov meeting.
+Join ZoomGov Meeting
+[Zoom Meeting](https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09)
+Meeting ID: 160 085 7507
+Passcode: 757776
+One tap mobile
++16692545252,,1600857507#,,,,*757776# US (San Jose)
++16468287666,,1600857507#,,,,*757776# US (New York)
+
+Upcoming Meetings
+5/21
+6/4
+6/18
+7/2 (4th weekend subject to change)
+
+
+
 ## Connect with our Members
 You can find the roster here. Based on your interest, availability, and experience, we expect there will be three types of members of this group.  Please review the following roles below:
 1.	Co-Admin: The Co-Admins will lead the overall strategy and vision for the group.  They will handle the logistics (meeting scheduling, note taking, etc.) and will serve as the main POCs into the broader ACT-IAC community.  
