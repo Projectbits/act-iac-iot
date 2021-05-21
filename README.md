@@ -13,7 +13,7 @@ Here are the meeting details:
 
 Regular meeting of the ACT-IAC IoT Working Group (changed cadence to biweekly)
 
-ACT IAC is inviting you to a scheduled ZoomGov meeting.
+ACT IAC is inviting you to a scheduled ZoomGov meeting at Noon EST.
 Join ZoomGov Meeting:
 
 [Zoom Meeting](https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09)
@@ -24,7 +24,7 @@ One tap mobile
 +16692545252,,1600857507#,,,,*757776# US (San Jose)
 +16468287666,,1600857507#,,,,*757776# US (New York)
 
-Upcoming Meetings
+Upcoming Meetings Noon every other Friday
 * 5/21
 * 6/4
 * 6/18
