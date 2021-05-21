@@ -33,10 +33,10 @@ Upcoming Meetings Noon every other Friday
 
 ## Plan
 
-Host April COI 20th Event
-Publish Primer (Current Goal)
-Publish Playbook (TBD)
-COI Session on IoT Security (TBD)
+* Host April COI 20th Event
+* Publish Primer (Current Goal)
+* Publish Playbook (TBD)
+* COI Session on IoT Security (TBD)
 
 ## Connect with our Members
 You can find the roster here. Based on your interest, availability, and experience, we expect there will be three types of members of this group.  Please review the following roles below:
