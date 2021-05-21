@@ -108,7 +108,7 @@ The  Communities of Interest (COIs) are the heart of the ACT-IAC collaborative f
 The COIs provide a government-driven, objective, vendor-neutral ethical forum where government and industry communicate and collaborate. Participation in the COIs is open to all ACT-IAC current members.  
 
  For additional information, please contact Nancy Delanoche, Director for Communities of Interest
- Nancy Delanoche ndelanoche@actiac.org
+ Nancy Delanoche ndelanoche@actiac.org 
  
 
 Click here to view COI Achievements and Deliverables.
