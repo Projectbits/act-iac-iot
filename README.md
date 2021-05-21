@@ -50,7 +50,7 @@ Please check your row in this spreadsheet and make any additions or changes
 ## Deliverables
 
 ### Primer Signup
-Primer Signup Sheet - Dont be bashful - sign up here for your sections of interest (This spreadsheet is easire to edit if you download it since the alignment has limited office online support.
+Primer Signup Sheet - Dont be bashful - sign up here for your sections of interest (This spreadsheet may easier to edit if you download it since the alignment has limited office online support.  Just add your name in the first blank column going left to right and put an x in each section you plan to contribute to:
 
 [Primer Signup](https://macrosolutions.box.com/s/prtcw1ja7cns8a6bv0htlg3j1gwlb3ty)
 
