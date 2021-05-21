@@ -24,7 +24,10 @@ One tap mobile
 +16692545252,,1600857507#,,,,*757776# US (San Jose)
 +16468287666,,1600857507#,,,,*757776# US (New York)
 
+## Calendar
 Upcoming Meetings Noon every other Friday
+
+[Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 * 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
 * 6/4
@@ -33,7 +36,7 @@ Upcoming Meetings Noon every other Friday
 
 ## Plan
 
-* Host April COI 20th Event
+* Host April 20th COI Event
 * Publish Primer (Current Goal)
 * Publish Playbook (TBD)
 * COI Session on IoT Security (TBD)
@@ -115,6 +118,12 @@ Please review our Working Group Charter
 
 Please review the ACT-IAC Code of Conduct
 [ACT-IAC Code of Conduct](https://macrosolutions.box.com/s/7jr1zt0t4m766dd7he2f28v8y1edtjcg)
+
+### Communications
+Jacqueline French 
+Office (703) 286-6004 | Mobile (239) 919-2727
+jacquelinefrench@kpmg.com
+[Jacqueline French jacquelinefrench@kpmg.com](mailto:jacquelinefrench@kpmg.com?subject=ACT-IAC%20COI%20IoT) Office (703) 286-6004
 
 
 ## ACT-IAC COMMUNITIES OF INTEREST (COI)
