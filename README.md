@@ -121,8 +121,6 @@ Please review the ACT-IAC Code of Conduct
 
 ### Communications
 Jacqueline French 
-Office (703) 286-6004 | Mobile (239) 919-2727
-jacquelinefrench@kpmg.com
 [Jacqueline French jacquelinefrench@kpmg.com](mailto:jacquelinefrench@kpmg.com?subject=ACT-IAC%20COI%20IoT) Office (703) 286-6004
 
 
@@ -135,6 +133,9 @@ The COIs provide a government-driven, objective, vendor-neutral ethical forum wh
  For additional information, please contact Nancy Delanoche, Director for Communities of Interest
  [Nancy Delanoche ndelanoche@actiac.org](mailto:ndelanoche@actiac.org?subject=ACT-IAC%20COI%20IoT)
  
+ ### LinkedIn ACT-IAC COI
+ [LinkedIn ACT-IAC COI](https://www.linkedin.com/showcase/emerging-technology-coi/)
+
 
 Click here to view COI Achievements and Deliverables.
 [COI Achievements and Deliverables](https://www.actiac.org/participation/communities-interest)
