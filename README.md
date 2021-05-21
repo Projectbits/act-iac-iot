@@ -14,8 +14,10 @@ Here are the meeting details:
 Regular meeting of the ACT-IAC IoT Working Group (changed cadence to biweekly)
 
 ACT IAC is inviting you to a scheduled ZoomGov meeting.
-Join ZoomGov Meeting
+Join ZoomGov Meeting:
+
 [Zoom Meeting](https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09)
+
 Meeting ID: 160 085 7507
 Passcode: 757776
 One tap mobile
@@ -23,10 +25,10 @@ One tap mobile
 +16468287666,,1600857507#,,,,*757776# US (New York)
 
 Upcoming Meetings
-5/21
-6/4
-6/18
-7/2 (4th weekend subject to change)
+* 5/21
+* 6/4
+* 6/18
+* 7/2 (4th weekend subject to change)
 
 
 
