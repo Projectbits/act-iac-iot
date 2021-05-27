@@ -64,7 +64,16 @@ Primer Signup Sheet - Dont be bashful - sign up here for your sections of intere
 [Primer Signup](https://macrosolutions.box.com/s/prtcw1ja7cns8a6bv0htlg3j1gwlb3ty)
 
 ### Primer Working Draft
+Please see our working draft Primer here:
+
 [Primer Draft](https://macrosolutions.box.com/s/bjb1qsa1eh3wdi8py3dkp0xe07vqux1h)
+
+### COI Use Case Reporistory
+
+please see the use case rposioty here:
+
+[https://www.actiac.org/page/use-case-repository-pilot](https://www.actiac.org/page/use-case-repository-pilot)
+
 
 ### Collaborate on box
 Collaborate live on Microsoft Office documents in Box
