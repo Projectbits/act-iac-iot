@@ -70,7 +70,7 @@ Please see our working draft Primer here:
 
 ### COI Use Case Reporistory
 
-please see the use case rposioty here:
+please see the use case reposioty here:
 
 [https://www.actiac.org/page/use-case-repository-pilot](https://www.actiac.org/page/use-case-repository-pilot)
 
