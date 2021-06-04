@@ -2,6 +2,9 @@
 
 Thank you for your interest in participating in the ACT-IAC Emerging Technology IoT and Smart City Working Group.  The scope of this group includes Industrial Internet of Things, Sensors, Actuators, Some Consumer Devices and even Edge and Fog Computing.  Our goals are to develop a primer, share use cases for IoT and Edge Computing that will support the federal government during this unprecedented time, especially with a lens for cyber security, and host events to help educate and inform the community.  We will also think about use cases for scenarios that will drive the mission of government during and post the pandemic.  
 
+## Information Link 
+https://projectbits.github.io/act-iac-iot/
+
 ## Repository
 We utalize Box as our document and information repository
 Please click this link to confirm that you have access
@@ -30,7 +33,7 @@ Upcoming Meetings Noon every other Friday
 [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 * 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
-* 6/4
+* 6/4   [Meeting Notes 6/4/2021](https://macrosolutions.box.com/s/cit4qhaxor2az3gqfvzaorj8bcw0z8fm)
 * 6/18
 * 7/2 (4th weekend subject to change)
 
@@ -147,8 +150,15 @@ The COIs provide a government-driven, objective, vendor-neutral ethical forum wh
  [LinkedIn ACT-IAC COI](https://www.linkedin.com/showcase/emerging-technology-coi/)
 
 
-Click here to view COI Achievements and Deliverables.
-[COI Achievements and Deliverables](https://www.actiac.org/participation/communities-interest)
+ Click here to view other COI Achievements and Deliverables.
+ [COI Achievements and Deliverables](https://www.actiac.org/participation/communities-interest)
+
+### CoLeads
+Government Lead   Dan Morgan  daniel.morgan@dot.gov
+Danielle Graham   danielle.m.graham@gsa.gov
+Justing Herman    jherman@twilio.com
+Pete Tseronis     pete@dotsandbridges.com
+Don Lovett        don@projectbits.com
 
 ### Support or Contact
 [Don Lovett don@projectbits.com](mailto:don@projectbits.com?subject=ACT-IAC%20COI%20IoT) 703-434-1660 Mobile [Don Lovett LinkedIn](https://www.linkedin.com/in/donlovett/)
