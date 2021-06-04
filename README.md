@@ -3,7 +3,7 @@
 Thank you for your interest in participating in the ACT-IAC Emerging Technology IoT and Smart City Working Group.  The scope of this group includes Industrial Internet of Things, Sensors, Actuators, Some Consumer Devices and even Edge and Fog Computing.  Our goals are to develop a primer, share use cases for IoT and Edge Computing that will support the federal government during this unprecedented time, especially with a lens for cyber security, and host events to help educate and inform the community.  We will also think about use cases for scenarios that will drive the mission of government during and post the pandemic.  
 
 ## Information Link 
-[Info Link](https://projectbits.github.io/act-iac-iot/)
+[Info Link](https://projectbits.github.io/act-iac-iot/) This page - https://projectbits.github.io/act-iac-iot/
 
 ## Repository
 We utalize Box as our document and information repository
@@ -36,6 +36,8 @@ Upcoming Meetings Noon every other Friday
 * 6/4   [Meeting Notes 6/4/2021](https://macrosolutions.box.com/s/cit4qhaxor2az3gqfvzaorj8bcw0z8fm)
 * 6/18
 * 7/2 (4th weekend subject to change)
+* 7/16
+* 7/30
 
 ## Plan
 
