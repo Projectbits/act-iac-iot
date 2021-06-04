@@ -28,9 +28,8 @@ One tap mobile
 +16468287666,,1600857507#,,,,*757776# US (New York)
 
 ## Calendar
+### Working Group
 Upcoming Meetings Noon every other Friday
-
-[Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 * 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
 * 6/4   [Meeting Notes 6/4/2021](https://macrosolutions.box.com/s/cit4qhaxor2az3gqfvzaorj8bcw0z8fm)
@@ -38,6 +37,10 @@ Upcoming Meetings Noon every other Friday
 * 7/2 (4th weekend subject to change)
 * 7/16
 * 7/30
+
+### ACT-IAC
+
+[Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 ## Plan
 
