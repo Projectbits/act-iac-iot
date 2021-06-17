@@ -29,15 +29,15 @@ One tap mobile
 
 ## Calendar
 ### Working Group
-Upcoming Meetings Noon every other Friday
+Note the Change:  Upcoming Meetings Noon every other Thursday Morning
 
 * 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
 * 6/4   [Meeting Notes 6/4/2021](https://macrosolutions.box.com/s/cit4qhaxor2az3gqfvzaorj8bcw0z8fm)
-* 6/18
-* 7/2 (4th weekend subject to change)
-* 7/16
-* 7/30
-
+* 6/18  Holiday - Juneteenth National Independence Day No Meeting 
+* 7/2   (no meeting - 4th Independence Day weekend)
+* 7/8   Start Thursday 8:00 AM Meetings 
+* 7/22
+* 8/5
 ### ACT-IAC
 
 [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
