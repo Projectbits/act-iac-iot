@@ -29,7 +29,7 @@ One tap mobile
 
 ## Calendar
 ### Working Group
-Note the Change:  Upcoming Meetings Noon every other Thursday Morning
+Note the Change:  Upcoming Meetings Noon every other Thursday Morning at 8:00 AM EST
 
 * 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
 * 6/4   [Meeting Notes 6/4/2021](https://macrosolutions.box.com/s/cit4qhaxor2az3gqfvzaorj8bcw0z8fm)
