@@ -40,11 +40,12 @@ Note the Change:  Upcoming Meetings Noon every other Thursday Morning at 8:00 AM
 * 8/5
 ### ACT-IAC
 
+[August 17th COI Event Register here ](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-august-2021)
 [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 ## Plan
 
-* Host April 20th COI Event
+* Grow Community
 * Publish Primer (Current Goal)
 * Publish Playbook (TBD)
 * COI Session on IoT Security (TBD)
