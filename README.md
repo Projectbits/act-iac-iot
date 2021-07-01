@@ -159,14 +159,14 @@ The COIs provide a government-driven, objective, vendor-neutral ethical forum wh
  [COI Achievements and Deliverables](https://www.actiac.org/participation/communities-interest)
 
 ### CoLeads
-Government Lead   Dan Morgan  daniel.morgan@dot.gov
-Danielle Graham   danielle.m.graham@gsa.gov
-Justing Herman    jherman@twilio.com
-Pete Tseronis     pete@dotsandbridges.com
-Don Lovett        don@projectbits.com
+Government Sponsor   Dan Morgan  daniel.morgan@dot.gov
+Danielle Graham      danielle.m.graham@gsa.gov
+Justing Herman       jherman@twilio.com
+Pete Tseronis        pete@dotsandbridges.com
+Don Lovett           don@projectbits.com
 
 ### Support or Contact
-[Don Lovett don@projectbits.com](mailto:don@projectbits.com?subject=ACT-IAC%20COI%20IoT) 703-434-1660 Mobile [Don Lovett LinkedIn](https://www.linkedin.com/in/donlovett/)
+[Don Lovett et@projectbits.com](mailto:et@projectbits.com?subject=ACT-IAC%20COI%20IoT) 703-434-1660 Mobile [Don Lovett LinkedIn](https://www.linkedin.com/in/donlovett/)
 
 ### Author
 Jessica (Tavasti) Davis  
