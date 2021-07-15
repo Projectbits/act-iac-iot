@@ -36,8 +36,10 @@ Note the Change:  Upcoming Meetings Noon every other Thursday Morning at 8:00 AM
 * 6/18  Holiday - Juneteenth National Independence Day No Meeting 
 * 7/2   (no meeting - 4th Independence Day weekend)
 * 7/8   Start Thursday 8:00 AM Meetings 
-* 7/22
-* 8/5
+* 7/22  No Meeting Planned
+* 8/5   Next Meeting for IOT Working Group
+* 8/17  COI Event - See registration link below (New)
+
 ### ACT-IAC
 
 [August 17th COI Event Register here ](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-august-2021)
@@ -46,6 +48,7 @@ Note the Change:  Upcoming Meetings Noon every other Thursday Morning at 8:00 AM
 ## Plan
 
 * Grow Community
+* Monthly Education Series on IoT (New)
 * Publish Primer (Current Goal)
 * Publish Playbook (TBD)
 * COI Session on IoT Security (TBD)
