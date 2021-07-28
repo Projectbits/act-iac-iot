@@ -29,16 +29,14 @@ One tap mobile
 
 ## Calendar
 ### Working Group
-Note the Change:  Upcoming Meetings Noon every other Thursday Morning at 8:30 AM EST
+Note the Change:  Upcoming Meetings every other Thursday Morning at 8:30 AM EST
 
-* 5/21  [Meeting Notes 5/21/2021](https://macrosolutions.box.com/s/kc31pbcpeewdjhlt0t0j1do7oiijm3gl)
-* 6/4   [Meeting Notes 6/4/2021](https://macrosolutions.box.com/s/cit4qhaxor2az3gqfvzaorj8bcw0z8fm)
-* 6/18  Holiday - Juneteenth National Independence Day No Meeting 
-* 7/2   (no meeting - 4th Independence Day weekend)
-* 7/8   Start Thursday Meetings 
-* 7/22  No Meeting Planned
+
 * 8/5   Next Meeting for IOT Working Group 8:30 AM EST
+
 * 8/17  COI Event - See registration link below (New)
+
+* 8/19   Next Meeting for IOT Working Group 8:30 AM EST
 
 ### ACT-IAC
 
