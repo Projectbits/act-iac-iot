@@ -7,7 +7,7 @@ Thank you for your interest in participating in the ACT-IAC Emerging Technology 
 
 ## Repository
 We utilize Box as our document and information repository
-Please click this link to confirm that you have [Box Access](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
+* Please click this link to confirm that you have [Box Access](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
 
 ## Meeting Details
 
@@ -36,8 +36,8 @@ Note the Change:  Upcoming Meetings every other Thursday at 8:30 AM EST
 
 ### ACT-IAC
 
-[August 17th COI Event Register here ](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-august-2021)
-[Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
+* [August 17th COI Event Register here ](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-august-2021)
+* [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 ## Plan
 
@@ -148,7 +148,7 @@ The COIs provide a government-driven, objective, vendor-neutral, ethical forum w
  For additional information, please contact Nancy Delanoche, Director for Communities of Interest
  [Nancy Delanoche ndelanoche@actiac.org](mailto:ndelanoche@actiac.org?subject=ACT-IAC%20COI%20IoT)
  
- ### LinkedIn ACT-IAC COI
+### LinkedIn ACT-IAC COI
 
  [LinkedIn ACT-IAC COI](https://www.linkedin.com/showcase/emerging-technology-coi/)
 
