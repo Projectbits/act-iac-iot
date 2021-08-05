@@ -30,9 +30,13 @@ One tap mobile
 ### Working Group
 Note the Change:  Upcoming Meetings every other Thursday at 8:30 AM EST
 
-* 8/17  COI Event - See registration link below (New)
+* 8/17   COI Event - See registration link below
 
-* 8/19   Next Meeting for IoT Smart Cities Working Group 8:30 AM EST
+* 8/19   Next Meeting - IoT Smart Cities Working Group 8:30 AM EST
+
+* 9/2    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+
+* 9/16   Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
 ### ACT-IAC
 
@@ -156,7 +160,7 @@ The COIs provide a government-driven, objective, vendor-neutral, ethical forum w
  Click here to view other COI Achievements and Deliverables.
  [COI Achievements and Deliverables](https://www.actiac.org/participation/communities-interest)
 
-### CoLeads
+### Co-Leads
 Government Sponsor   Dan Morgan  daniel.morgan@dot.gov
 * Danielle Graham      danielle.m.graham@gsa.gov
 * Justin Herman        jherman@twilio.com
