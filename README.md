@@ -30,17 +30,14 @@ One tap mobile
 ### Working Group
 Note the Change:  Upcoming Meetings every other Thursday at 8:30 AM EST
 
-* 8/17   COI Event - See registration link below
-
-* 8/19   Next Meeting - IoT Smart Cities Working Group 8:30 AM EST
-
 * 9/2    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
 * 9/16   Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
+* 9/30   Meeting - IoT Smart Cities Working Group 8:30 AM EST
+
 ### ACT-IAC
 
-* [August 17th COI Event Register here ](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-august-2021)
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 ## Plan
