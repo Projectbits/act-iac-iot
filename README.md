@@ -30,9 +30,9 @@ One tap mobile
 ### Working Group
 Note the Change:  Upcoming Meetings every other Thursday at 8:30 AM EST
 
-* 9/2    Meeting - IoT Smart Cities Working Group 8:30 AM EST
-
 * 9/16   Meeting - IoT Smart Cities Working Group 8:30 AM EST
+We may want to discuss this legislation update on IoT:
+* [IoT Legislation Q2](https://www.insideprivacy.com/internet-of-things/u-s-ai-iot-cav-and-privacy-legislative-update-second-quarter-2021/#more-13366) 
 
 * 9/30   Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
