@@ -18,7 +18,7 @@ Regular meeting of the ACT-IAC IoT Working Group (cadence is biweekly)
 ACT IAC is inviting you to a scheduled ZoomGov meeting at 8:30 AM EST every other Thursday.
 Join ZoomGov Meeting:
 
-[Zoom Meeting](https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09)
+[When it is time join the Zoom Meeting here](https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09)
 
 Meeting ID: 160 085 7507
 Passcode: 757776
@@ -28,13 +28,10 @@ One tap mobile
 
 ## Calendar
 ### Working Group
-Note the Change:  Upcoming Meetings every other Thursday at 8:30 AM EST
-
-* 9/16   Meeting - IoT Smart Cities Working Group 8:30 AM EST
-We may want to discuss this legislation update on IoT:
-* [IoT Legislation Q2](https://www.insideprivacy.com/internet-of-things/u-s-ai-iot-cav-and-privacy-legislative-update-second-quarter-2021/#more-13366) 
-
-* 9/30   Meeting - IoT Smart Cities Working Group 8:30 AM EST
+Upcoming Meetings every other Thursday at 8:30 AM EST
+* 9/30    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 10/14   Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 10/28   Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
 ### ACT-IAC
 
