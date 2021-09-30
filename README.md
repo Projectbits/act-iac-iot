@@ -30,6 +30,13 @@ One tap mobile
 ### Working Group
 Upcoming Meetings every other Thursday at 8:30 AM EST
 * 9/30    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+
+https://www.youtube.com/watch?v=tSuKyhIbZrU
+
+https://www.youtube.com/watch?v=uAmbZCtNC9U
+
+
+
 * 10/14   Meeting removed to make way for the Shark Tank that starts at 9:00
 * 10/28   Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
