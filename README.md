@@ -33,7 +33,9 @@ Upcoming Meetings every other Thursday at 8:30 AM EST
 
 
 ### ACT-IAC
-* I encourage you to register and attend this month’s Emerging Tech COI meeting featuring a discussion on Quantum Computing. Register here https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-november-2021 
+I encourage you to register and attend this month’s Emerging Tech COI meeting featuring a discussion on Quantum Computing:
+
+* [Register here] (https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-november-2021)
 
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
