@@ -29,19 +29,12 @@ One tap mobile
 ## Calendar
 ### Working Group
 Upcoming Meetings every other Thursday at 8:30 AM EST
-* 9/30    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 12/2    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
-https://www.youtube.com/watch?v=tSuKyhIbZrU
-
-https://www.youtube.com/watch?v=uAmbZCtNC9U
-
-
-
-* 10/14   Meeting removed to make way for the Shark Tank that starts at 9:00
-* 10/28   Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
 ### ACT-IAC
-* [Shark Tank Registration](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-shark-tank-2021)
+* I encourage you to register and attend this month’s Emerging Tech COI meeting featuring a discussion on Quantum Computing. Register here https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-november-2021 
+
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 ## Plan
