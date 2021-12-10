@@ -36,20 +36,21 @@ Link to the working group team roster excel file: Team Roster
 
 • Kevin Hamer profile https://www.linkedin.com/in/kevin-hamer-4810645/
 • Akiak Technology LLC https://akiaktechnology.com/
-• TITLE (draft): Addressing The Digital Divide: Rural Tribal Broadband
+## TITLE: Addressing The Digital Divide: Rural Tribal Broadband
 • ABSTRACT (draft): On June 3, 2021, the National Telecommunication and Information Administration (NTIA) issued a historic Notice of Funding Opportunity (NOFO) and began accepting applications for $1 billion in available grant funding under the Tribal Broadband Connectivity Program (TBCP). Improving and Expanding the Nation’s broadband infrastructure will require investment in the people, processes, and technologies to make broadband affordable for all Americans, specifically those that are underserved and unserved. While technology can/will underpin a future-state foundation for economic and social benefits, it is paramount that all of humanity realize access to the communications necessary to foster digital inclusion, streamline digital equity, and bridge the digital divide.
 •	FORMAT: fireside chat with Kevin and Pete
 
 * 12/17    Meeting - IoT Smart Cities Working Group 12:00 AM EST
+## Learning Series
 Let's light this candle: it has been confirmed that our speakers -- included here -- are all available at 12:00pm EST, 12/17 for the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group. 
 
 For background, the series will include (we can change the naming obviously, for some reason I have rap battles in my mind:
-•	IoT x Smart Cities (Dec. 17, 12:00pm EST)
-•	IoT x Infrastructure (January)
-•	IoT x Participation (February)
-•	IoT x Data (March)
-•	IoT x Safety (April)
-•	IoT x Climate (May)
+* •	IoT x Smart Cities (Dec. 17, 12:00pm EST)
+* •	IoT x Infrastructure (January)
+* •	IoT x Participation (February)
+* •	IoT x Data (March)
+* •	IoT x Safety (April)
+* •	IoT x Climate (May)
 Each session will be approximately/at most 45 minutes total, including introductions, five(ish) minute presentations by speakers), and moderated discussion. We will deep dive into this for the first session in a follow-up email. 
 
 Our speakers for the first session, moderated by Justin Herman, will include:
