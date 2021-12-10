@@ -30,6 +30,36 @@ One tap mobile
 ### Working Group
 Upcoming Meetings every other Thursday at 8:30 AM EST
 * 12/16    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+Pete has lined up a great meeting and I appreciate your help in getting the word out
+Information for 12/16 Meeting - IoT Smart Cities Working Group 8:30 AM EST to 9:00 AM
+Link to the working group team roster excel file: Team Roster
+
+• Kevin Hamer profile https://www.linkedin.com/in/kevin-hamer-4810645/
+• Akiak Technology LLC https://akiaktechnology.com/
+• TITLE (draft): Addressing The Digital Divide: Rural Tribal Broadband
+• ABSTRACT (draft): On June 3, 2021, the National Telecommunication and Information Administration (NTIA) issued a historic Notice of Funding Opportunity (NOFO) and began accepting applications for $1 billion in available grant funding under the Tribal Broadband Connectivity Program (TBCP). Improving and Expanding the Nation’s broadband infrastructure will require investment in the people, processes, and technologies to make broadband affordable for all Americans, specifically those that are underserved and unserved. While technology can/will underpin a future-state foundation for economic and social benefits, it is paramount that all of humanity realize access to the communications necessary to foster digital inclusion, streamline digital equity, and bridge the digital divide.
+•	FORMAT: fireside chat with Kevin and Pete
+
+* 12/17    Meeting - IoT Smart Cities Working Group 12:00 AM EST
+Let's light this candle: it has been confirmed that our speakers -- included here -- are all available at 12:00pm EST, 12/17 for the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group. 
+
+For background, the series will include (we can change the naming obviously, for some reason I have rap battles in my mind:
+•	IoT x Smart Cities (Dec. 17, 12:00pm EST)
+•	IoT x Infrastructure (January)
+•	IoT x Participation (February)
+•	IoT x Data (March)
+•	IoT x Safety (April)
+•	IoT x Climate (May)
+Each session will be approximately/at most 45 minutes total, including introductions, five(ish) minute presentations by speakers), and moderated discussion. We will deep dive into this for the first session in a follow-up email. 
+
+Our speakers for the first session, moderated by Justin Herman, will include:
+•	Dan Morgan, chief data officer, U.S. Department of Transportation, and ACT-IAC IoT Working Group Government Sponsor
+•	Scott Lemon, principle IoT solutions engineer, Twilio
+•	Chelsea Collier, founder of Digi.City, editor-at-large of Smart Cities Connect and co-author of The Smart Cities Playbook
+Berrak, from Twilio IoT Marketing, and Chelsea (both cc'ed) will both be promoting this among the national IoT and Smart Cities community, and we will have a promotional image created in order to help achieve that. 
+
+These sessions will be open to anyone to build a robust community going into the new year, so let's plan to open the doors wide. 
+
 
 
 ### ACT-IAC
