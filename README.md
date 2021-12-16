@@ -40,17 +40,17 @@ Link to the working group team roster excel file: Team Roster
 • ABSTRACT (draft): On June 3, 2021, the National Telecommunication and Information Administration (NTIA) issued a historic Notice of Funding Opportunity (NOFO) and began accepting applications for $1 billion in available grant funding under the Tribal Broadband Connectivity Program (TBCP). Improving and Expanding the Nation’s broadband infrastructure will require investment in the people, processes, and technologies to make broadband affordable for all Americans, specifically those that are underserved and unserved. While technology can/will underpin a future-state foundation for economic and social benefits, it is paramount that all of humanity realize access to the communications necessary to foster digital inclusion, streamline digital equity, and bridge the digital divide.
 •	FORMAT: fireside chat with Kevin and Pete
 For more information please see:
-#	ykdtribalbroadband.org
+*	ykdtribalbroadband.org
 
-#	https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/fact-sheet-bipartisan-infrastructure-framework-creates-economic-opportunities-for-rural-america/
+*	https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/fact-sheet-bipartisan-infrastructure-framework-creates-economic-opportunities-for-rural-america/
 
-#	https://www.alaskapublic.org/2021/11/05/rural-alaska-communities-have-largely-been-left-behind-in-the-digital-revolution-until-now-alaska-insight/
+*	https://www.alaskapublic.org/2021/11/05/rural-alaska-communities-have-largely-been-left-behind-in-the-digital-revolution-until-now-alaska-insight/
 
-#	https://ykdtribalbroadband.org/about-us
+*	https://ykdtribalbroadband.org/about-us
 
 
-* 12/17    Meeting - IoT Smart Cities Working Group 12:00 AM EST
-## Learning Series
+## 12/17    Meeting - IoT Smart Cities Working Group 12:00 AM EST
+### Learning Series
 Let's light this candle: it has been confirmed that our speakers -- included here -- are all available at 12:00pm EST, 12/17 for the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group. 
 
 For background, the series will include (we can change the naming obviously, for some reason I have rap battles in my mind:
