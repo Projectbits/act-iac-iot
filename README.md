@@ -77,9 +77,10 @@ These sessions will be open to anyone to build a robust community going into the
 Stay tuned for more details
 
 ### ACT-IAC
-I encourage you to register and attend this month’s Emerging Tech COI meeting featuring a discussion on Quantum Computing:
+I encourage you to register and attend this month’s Emerging Tech COI meeting Join the ACT-IAC Emerging Technology COI and Health COI for a joint member meeting on the topic of intelligent automation and RPA.
 
-* [Register here] (https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-november-2021)
+* [Act-IAC Upcoming Events](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-and-health-coi-january-2022)
+The U.S. Department of Health, Health Resources and Services Administration (HRSA) mission is to improve health outcomes and achieve health equity through access to quality services, a skilled health workforce, and innovative, high-value programs.  After the COVID outbreak, Congress tasked HRSA with administering the Provider Relief Fund (PRF) and issuing payments to providers for lost revenues or increased costs attributable to COVID. To access these payments, heath care providers submitted applications, tax forms, revenue documents and other information – often exceeding a thousand pages per application. To improve payment integrity and reduce the manual review of thousands of applications, the HRSA Office of Budget and Finance utilized a combination of RPA/AI/ML to implement "Rosie" to solve this PRF payment integrity and financial management challenge.  
 
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
