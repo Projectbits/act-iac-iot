@@ -29,37 +29,41 @@ One tap mobile
 ## Calendar
 ### Working Group
 Upcoming Meetings every other Thursday at 8:30 AM EST
-* 12/16    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 1/20    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 Pete has lined up a great meeting and I appreciate your help in getting the word out
-Information for 12/16 Meeting - IoT Smart Cities Working Group 8:30 AM EST to 9:00 AM
-Link to the working group team roster excel file: Team Roster
 
-• Kevin Hamer profile https://www.linkedin.com/in/kevin-hamer-4810645/
-• Akiak Technology LLC https://akiaktechnology.com/
-## TITLE: Addressing The Digital Divide: Rural Tribal Broadband
-• ABSTRACT (draft): On June 3, 2021, the National Telecommunication and Information Administration (NTIA) issued a historic Notice of Funding Opportunity (NOFO) and began accepting applications for $1 billion in available grant funding under the Tribal Broadband Connectivity Program (TBCP). Improving and Expanding the Nation’s broadband infrastructure will require investment in the people, processes, and technologies to make broadband affordable for all Americans, specifically those that are underserved and unserved. While technology can/will underpin a future-state foundation for economic and social benefits, it is paramount that all of humanity realize access to the communications necessary to foster digital inclusion, streamline digital equity, and bridge the digital divide.
-•	FORMAT: fireside chat with Kevin and Pete
-For more information please see:
-*	ykdtribalbroadband.org
+The ACT-IAC IoT Smart Cities Working Group is hosting its next meeting on January 20 (next Thursday) at 8:30 AM EST to 9:00 AM. 
 
-*	https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/08/fact-sheet-bipartisan-infrastructure-framework-creates-economic-opportunities-for-rural-america/
+TITLE
+Securing The Deployment of Critical Infrastructure Devices
 
-*	https://www.alaskapublic.org/2021/11/05/rural-alaska-communities-have-largely-been-left-behind-in-the-digital-revolution-until-now-alaska-insight/
+ABSTRACT
+The protection of our Nation’s most critical infrastructure sectors is a shared responsibility across Government and Industry. The Infrastructure Investment and Jobs Act (aka the Infrastructure Bill) represents transformational legislation intended to fortify, modernize, and secure the transportation, energy, water, and communications sectors. Doing so, however, will require due diligence necessary ensure technology capabilities map to mission needs. Executive Order 14028 underscores that incremental improvements are insufficient. Instead, the Order states that “the Federal Government needs to make bold changes and significant investments in order to defend the vital institutions that underpin the American way of life.”
 
-*	https://ykdtribalbroadband.org/about-us
+Information Technology (IT) and Operational Technology (OT) systems will require process integration to monitor, analyze, and protect the vital machine that ensures our safety. Moreover, the cyber-physical threats posed to the systems that control and operate the critical infrastructure we depend upon are among the most significant and growing issues confronting our Nation. Fortunately, Industrial Internet of Things (IIoT) devices can afford opportunities for ubiquitous, continuous connectivity while protecting the digital communication, data, and control across an expansive threat landscape. The end game is to defend our critical infrastructure by encouraging and facilitating deployment of technologies and systems that provide threat visibility, indications, detection, and warnings, and that facilitate response capabilities for cybersecurity in essential control system and operational technology networks.  
 
+FEATURED GUEST
+Ken Wolf | President and COO | PacketViper
+Ken is a seasoned business executive, technology strategist, and collaborative partner to Government, Commercial, and Academic stakeholders, applying cyber-physical competency to mission-oriented challenges. At PacketVIper, Ken maintains full P&L accountability and leading all business operations while steering the company growth vision and strategy. A market-focused change agent, Ken specializes in business approaches seeking to leverage the promise of disruptive “smart” technologies underpinning our Nation’s critical infrastructure sectors while incorporating the necessary risk mitigation tactics to secure our cities, communities, and municipalities. 
 
-## 12/17    Meeting - IoT Smart Cities Working Group 12:00 AM EST
+Join ZoomGov Meeting
+https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09
+Meeting ID: 160 085 7507
+Passcode: 757776
+One tap mobile
++16692545252,,1600857507#,,,,*757776# US (San Jose)
++16468287666,,1600857507#,,,,*757776# US (New York)
+
 ### Learning Series
-Let's light this candle: it has been confirmed that our speakers -- included here -- are all available at 12:00pm EST, 12/17 for the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group. 
+Let's light this candle: the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group is coming. 
 
-For background, the series will include (we can change the naming obviously, for some reason I have rap battles in my mind:
-* •	IoT x Smart Cities (Dec. 17, 12:00pm EST)
-* •	IoT x Infrastructure (January)
-3* •	IoT x Participation (February)
-* •	IoT x Data (March)
-* •	IoT x Safety (April)
-* •	IoT x Climate (May)
+For background, the series will include :
+* •	IoT x Smart Cities
+* •	IoT x Infrastructure 
+* •	IoT x Participation 
+* •	IoT x Data 
+* •	IoT x Safety 
+* •	IoT x Climate 
 Each session will be approximately/at most 45 minutes total, including introductions, five(ish) minute presentations by speakers), and moderated discussion. We will deep dive into this for the first session in a follow-up email. 
 
 Our speakers for the first session, moderated by Justin Herman, will include:
@@ -70,7 +74,7 @@ Berrak, from Twilio IoT Marketing, and Chelsea (both cc'ed) will both be promoti
 
 These sessions will be open to anyone to build a robust community going into the new year, so let's plan to open the doors wide. 
 
-
+Stay tuned for more details
 
 ### ACT-IAC
 I encourage you to register and attend this month’s Emerging Tech COI meeting featuring a discussion on Quantum Computing:
