@@ -74,12 +74,12 @@ I encourage you to register and attend this month’s Emerging Tech COI meeting 
 
 * [Act-IAC Playback Last Event](https://www.actiac.org/Playback act-iac-event/)
 
-act-iac-emerging-technology-coi-and-health-coi-january-2022)
-The U.S. Department of Health, Health Resources and Services Administration (HRSA) mission is to improve health outcomes and achieve health equity through access to quality services, a skilled health workforce, and innovative, high-value programs.  After the COVID outbreak, Congress tasked HRSA with administering the Provider Relief Fund (PRF) and issuing payments to providers for lost revenues or increased costs attributable to COVID. To access these payments, heath care providers submitted applications, tax forms, revenue documents and other information – often exceeding a thousand pages per application. To improve payment integrity and reduce the manual review of thousands of applications, the HRSA Office of Budget and Finance utilized a combination of RPA/AI/ML to implement "Rosie" to solve this PRF payment integrity and financial management challenge.  
-
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
 * [Prior Events Act-IAC (HRSA) mission](https://www.youtube.com/watch?v=F0UWIeN-KSA )
+
+## Join our Discord Threads
+* [Join Discord](https://discord.gg/MZx5GENbuU)
 
 ## Planhttps://www.actiac.org/upcoming-events
 
