@@ -72,13 +72,12 @@ Stay tuned for more details
 
 I encourage you to register and attend this month’s Emerging Tech COI meeting Join the ACT-IAC Emerging Technology COI and Health COI for a joint member meeting on the topic of intelligent automation and RPA.
 
-* [Act-IAC Playback Last Event](https://www.actiac.org/Playback act-iac-event/)
 
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
-* [Prior Events Act-IAC (HRSA) mission](https://www.youtube.com/watch?v=F0UWIeN-KSA )
+* [Playback Prior Events Act-IAC January](https://www.youtube.com/watch?v=F0UWIeN-KSA )
 
-![meeting logo](https://github.com/Projectbits/act-iac-iot/blob/main/actiacjanmeeting.jpg)
+<img src="https://github.com/Projectbits/act-iac-iot/blob/main/actiacjanmeeting.jpg"
 
 ## Join our Discord Threads
 * [Join Discord](https://discord.gg/MZx5GENbuU)
