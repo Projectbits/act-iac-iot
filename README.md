@@ -78,12 +78,12 @@ I encourage you to register and attend this month’s Emerging Tech COI meeting 
 
 * [Prior Events Act-IAC (HRSA) mission](https://www.youtube.com/watch?v=F0UWIeN-KSA )
 
-![logo](/act-iac-iot/blob/main/actiacjanmeeting.jpg)
+![logo](/Projectbits/act-iac-iot/blob/main/actiacjanmeeting.jpg)
 
 ## Join our Discord Threads
 * [Join Discord](https://discord.gg/MZx5GENbuU)
 
-## Planhttps://www.actiac.org/upcoming-events
+## Plan
 
 * Grow Community
 * Monthly Education Series on IoT (New)
