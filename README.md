@@ -29,22 +29,10 @@ One tap mobile
 ## Calendar
 ### Working Group
 Upcoming Meetings every other Thursday at 8:30 AM EST
-* 1/20    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 2/3    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 Pete has lined up a great meeting and I appreciate your help in getting the word out
 
-The ACT-IAC IoT Smart Cities Working Group is hosting its next meeting on January 20 (next Thursday) at 8:30 AM EST to 9:00 AM. 
-
-TITLE
-Securing The Deployment of Critical Infrastructure Devices
-
-ABSTRACT
-The protection of our Nation’s most critical infrastructure sectors is a shared responsibility across Government and Industry. The Infrastructure Investment and Jobs Act (aka the Infrastructure Bill) represents transformational legislation intended to fortify, modernize, and secure the transportation, energy, water, and communications sectors. Doing so, however, will require due diligence necessary ensure technology capabilities map to mission needs. Executive Order 14028 underscores that incremental improvements are insufficient. Instead, the Order states that “the Federal Government needs to make bold changes and significant investments in order to defend the vital institutions that underpin the American way of life.”
-
-Information Technology (IT) and Operational Technology (OT) systems will require process integration to monitor, analyze, and protect the vital machine that ensures our safety. Moreover, the cyber-physical threats posed to the systems that control and operate the critical infrastructure we depend upon are among the most significant and growing issues confronting our Nation. Fortunately, Industrial Internet of Things (IIoT) devices can afford opportunities for ubiquitous, continuous connectivity while protecting the digital communication, data, and control across an expansive threat landscape. The end game is to defend our critical infrastructure by encouraging and facilitating deployment of technologies and systems that provide threat visibility, indications, detection, and warnings, and that facilitate response capabilities for cybersecurity in essential control system and operational technology networks.  
-
-FEATURED GUEST
-Ken Wolf | President and COO | PacketViper
-Ken is a seasoned business executive, technology strategist, and collaborative partner to Government, Commercial, and Academic stakeholders, applying cyber-physical competency to mission-oriented challenges. At PacketVIper, Ken maintains full P&L accountability and leading all business operations while steering the company growth vision and strategy. A market-focused change agent, Ken specializes in business approaches seeking to leverage the promise of disruptive “smart” technologies underpinning our Nation’s critical infrastructure sectors while incorporating the necessary risk mitigation tactics to secure our cities, communities, and municipalities. 
+The ACT-IAC IoT Smart Cities Working Group is hosting its next meeting on this Thusday February 3 (next Thursday) at 8:30 AM EST to 9:00 AM. 
 
 Join ZoomGov Meeting
 https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09
@@ -54,7 +42,9 @@ One tap mobile
 +16692545252,,1600857507#,,,,*757776# US (San Jose)
 +16468287666,,1600857507#,,,,*757776# US (New York)
 
-### Learning Series
+* 2/17    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+
+### Coming Soon - IoT Smart Community Learning Series Podcasts
 Let's light this candle: the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group is coming. 
 
 For background, the series will include :
@@ -64,7 +54,8 @@ For background, the series will include :
 * •	IoT x Data 
 * •	IoT x Safety 
 * •	IoT x Climate 
-Each session will be approximately/at most 45 minutes total, including introductions, five(ish) minute presentations by speakers), and moderated discussion. We will deep dive into this for the first session in a follow-up email. 
+
+Each session will be approximately/at most 45 minutes total, including introductions, five(ish) minute presentations by speakers), and moderated discussion. We will deep dive into this for the first session in a follow-up email and will post here. 
 
 Our speakers for the first session, moderated by Justin Herman, will include:
 •	Dan Morgan, chief data officer, U.S. Department of Transportation, and ACT-IAC IoT Working Group Government Sponsor
@@ -76,15 +67,21 @@ These sessions will be open to anyone to build a robust community going into the
 
 Stay tuned for more details
 
+* [For now chckout other ACT-IAC Buzz Episodes](https://thebuzzwithactiac.buzzsprout.com/)
 ### ACT-IAC
+
 I encourage you to register and attend this month’s Emerging Tech COI meeting Join the ACT-IAC Emerging Technology COI and Health COI for a joint member meeting on the topic of intelligent automation and RPA.
 
-* [Act-IAC Upcoming Events](https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-and-health-coi-january-2022)
+* [Act-IAC Playback Last Event](https://www.actiac.org/Playback act-iac-event/)
+
+act-iac-emerging-technology-coi-and-health-coi-january-2022)
 The U.S. Department of Health, Health Resources and Services Administration (HRSA) mission is to improve health outcomes and achieve health equity through access to quality services, a skilled health workforce, and innovative, high-value programs.  After the COVID outbreak, Congress tasked HRSA with administering the Provider Relief Fund (PRF) and issuing payments to providers for lost revenues or increased costs attributable to COVID. To access these payments, heath care providers submitted applications, tax forms, revenue documents and other information – often exceeding a thousand pages per application. To improve payment integrity and reduce the manual review of thousands of applications, the HRSA Office of Budget and Finance utilized a combination of RPA/AI/ML to implement "Rosie" to solve this PRF payment integrity and financial management challenge.  
 
 * [Act-IAC Upcoming Events](https://www.actiac.org/upcoming-events)
 
-## Plan
+* [Prior Events Act-IAC (HRSA) mission](https://www.youtube.com/watch?v=F0UWIeN-KSA )
+
+## Planhttps://www.actiac.org/upcoming-events
 
 * Grow Community
 * Monthly Education Series on IoT (New)
