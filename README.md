@@ -77,7 +77,7 @@ I encourage you to register and attend this month’s Emerging Tech COI meeting 
 
 * [Playback Prior Events Act-IAC January](https://www.youtube.com/watch?v=F0UWIeN-KSA )
 
-<img src="https://github.com/Projectbits/act-iac-iot/blob/main/actiacjanmeeting.jpg"
+<img src="https://github.com/Projectbits/act-iac-iot/blob/main/actiacjanmeeting.jpg">
 
 ## Join our Discord Threads
 * [Join Discord](https://discord.gg/MZx5GENbuU)
