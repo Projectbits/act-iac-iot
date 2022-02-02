@@ -39,7 +39,7 @@ One tap mobile
 Upcoming Meetings every other Thursday at 8:30 AM EST
 
 * 2/3    Meeting - IoT Smart Cities Working Group 8:30 AM EST
-Pete has lined up a great meeting and I appreciate your help in getting the word out
+Should be a great meeting and I appreciate your help in getting the word out.
 
 The ACT-IAC IoT Smart Cities Working Group is hosting its next meeting on this Thusday February 3 (next Thursday) at 8:30 AM EST to 9:00 AM.
 
