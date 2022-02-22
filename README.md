@@ -239,6 +239,7 @@ Government Sponsor   Dan Morgan  daniel.morgan@dot.gov
 ### Support or Contact
 
 [Don Lovett et@projectbits.com](mailto:et@projectbits.com?subject=ACT-IAC%20COI%20IoT) 703-434-1660 Mobile [Don Lovett LinkedIn](https://www.linkedin.com/in/donlovett/)
+My Virtual Card https://donlovett.github.io/business-card/
 
 ### Author
 
