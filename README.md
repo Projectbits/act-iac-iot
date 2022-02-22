@@ -230,10 +230,11 @@ The COIs provide a government-driven, objective, vendor-neutral, ethical forum w
 
 Government Sponsor   Dan Morgan  daniel.morgan@dot.gov
 
-* Danielle Graham      danielle.m.graham@gsa.gov
-* Justin Herman        jherman@twilio.com
-* Pete Tseronis        pete@dotsandbridges.com
-* Don Lovett           don@projectbits.com
+* Michael Berkholtz - Gov Co-chair  michael.berkholtz@gsa.gov
+* Danielle Graham - Gov Co-chair  danielle.m.graham@gsa.gov
+* Justin Herman - Industry Co-chair  jherman@twilio.com
+* Pete Tseronis - Industry Co-chair      pete@dotsandbridges.com
+* Don Lovett - Industry Co-chair           don@projectbits.com
 
 ### Support or Contact
 
