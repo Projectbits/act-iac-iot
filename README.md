@@ -48,7 +48,6 @@ One tap mobile
 
 Don't miss this great opportunity
 
-* 3/03    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 * 3/17    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 * 3/31    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 * 4/14    Meeting - IoT Smart Cities Working Group 8:30 AM EST
