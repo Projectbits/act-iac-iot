@@ -5,15 +5,7 @@
 
 Thank you for your interest in participating in the ACT-IAC Emerging Technology IoT and Smart Communities Working Group. The scope of this group includes Industrial Internet of Things, Sensors, Actuators, Some Consumer Devices, and even Edge and Fog Computing. Our goals are to develop a primer, share use cases for IoT and Edge Computing that will support the federal government during this unprecedented time, especially with a lens for cybersecurity, and host events to help educate and inform the community. We will also think about use cases for scenarios that will drive the mission of government during and post the pandemic.
 
-## Information Link
 
-[Info Link](https://projectbits.github.io/act-iac-iot/) This page - <https://projectbits.github.io/act-iac-iot/>
-
-## Repository
-
-We utilize Box as our document and information repository
-
-* Please click this link to confirm that you have [Box Access](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
 
 ## Meeting Details
 
@@ -38,10 +30,13 @@ One tap mobile
 
 Upcoming Meetings every other Thursday at 8:30 AM EST
 
-* 3/3    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 3/17    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 Should be a great meeting and I appreciate your help in getting the word out.
 
-The ACT-IAC IoT Smart Cities Working Group is hosting its next meeting on this Thusday February 3 (next Thursday) at 8:30 AM EST to 9:00 AM.
+![](2022-03-14-15-40-16.png)
+
+
+The ACT-IAC IoT Smart Cities Working Group is hosting its next meeting on this Thusday March 17 (next Thursday) at 8:30 AM EST to 9:00 AM.
 
 Join ZoomGov Meeting
 <https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09>
@@ -54,9 +49,11 @@ One tap mobile
 Don't miss this great opportunity
 
 * 3/03    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 3/17    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 3/31    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+* 4/14    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
-
-🟠 INSIGHT: Tune In On February 24 | https://bit.ly/33b4FK2 🎙
+🟠 INSIGHT: Prior February 24 meeting | https://bit.ly/33b4FK2 🎙
 
 ![](2022-02-18-10-28-04.png)
 
@@ -169,6 +166,15 @@ Watch a video on real-time co-authoring in Box
 
 ## Resources - Information, Sources, Documents
 
+## Information Link
+
+[Info Link](https://projectbits.github.io/act-iac-iot/) This page - <https://projectbits.github.io/act-iac-iot/>
+
+## Repository
+
+We utilize Box as our document and information repository
+
+* Please click this link to confirm that you have [Box Access](https://macrosolutions.box.com/s/od9tm5nppwfjr877ylu9zyr1vv6keefm)
 Here are links to help provide a better background of this space:
 • Formal Definition of Edge Computing: An Emphasis on Mobile Cloud and IoT Composition | NIST
 [NIST](https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition)
