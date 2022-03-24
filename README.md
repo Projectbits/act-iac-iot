@@ -51,6 +51,10 @@ Don't miss this great opportunity
 * 3/31    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 * 4/14    Meeting - IoT Smart Cities Working Group 8:30 AM EST
 
+## Prior Meetings and Events
+![](2022-03-24-13-28-11.png)
+
+
 🟠 INSIGHT: Prior February 24 meeting | https://bit.ly/33b4FK2 🎙
 
 ![](2022-02-18-10-28-04.png)
