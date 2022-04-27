@@ -28,28 +28,10 @@ One tap mobile
 
 ### Working Group
 
-Upcoming Meetings every other Thursday at 8:30 AM EST
+Upcoming Meetings 
 
-* 3/31    Meeting - IoT Smart Cities Working Group 8:30 AM EST
-Digital Forensics meets IoT - Stories from the field  Will be a great meeting and I appreciate your help in getting the word out.
-
-![](2022-03-24-13-22-37.png)
-
-Robert Osgood (Bob), an engineer CPA, is a 26-year veteran FBI computer forensics examiner and technically trained special agent. His specialties include digital forensics, data intercept, cyber-crime, enterprise criminal organizations, espionage, and counterterrorism. In the course of his work, he performed digital forensics research and development and created unique new software tools for digital forensic law enforcement. He formed the first FBI computer forensics squad in 2000, served as the Chief of the FBI's digital media exploration unit, and was part of the team that executed the first court-authorized digital computer intercept. Mr. Osgood managed and developed deployed the Washington D.C, gunshot detection system. Bob is a Director of Digital Forensics at George Mason University
-
-
-Join ZoomGov Meeting
-<https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09>
-Meeting ID: 160 085 7507
-Passcode: 757776
-One tap mobile
-+16692545252,,1600857507#,,,,*757776# US (San Jose)
-+16468287666,,1600857507#,,,,*757776# US (New York)
-
-Don't miss this great opportunity
-
-* 3/31    Meeting - IoT Smart Cities Working Group 8:30 AM EST
-* 4/14    Meeting - IoT Smart Cities Working Group 8:30 AM EST
+Tuesday, May 18, 2021 - 10:00 AM - 11:30 AM EDT 
+<https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-may-2021>
 
 ## Prior Meetings and Events
 ![](2022-03-24-13-28-11.png)
