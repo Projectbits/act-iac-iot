@@ -13,6 +13,8 @@ Here are the meeting details:
 
 Regular meeting of the ACT-IAC IoT Working Group (cadence is biweekly)
 
+## No Meeting on 4/28
+
 ACT IAC is inviting you to a scheduled ZoomGov meeting at 8:30 AM EST every other Thursday.
 Join ZoomGov Meeting:
 
