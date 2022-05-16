@@ -13,19 +13,23 @@ Here are the meeting details:
 
 Regular meeting of the ACT-IAC IoT Working Group (cadence is biweekly)
 
-## No Meeting on 4/28
+## Upcoming Meetings 
 
-ACT IAC is inviting you to a scheduled ZoomGov meeting at 8:30 AM EST every other Thursday.
-Join ZoomGov Meeting:
+Tuesday, May 18, 2021 - 10:00 AM - 11:30 AM EDT 
+<https://www.actiac.org/act-iac-event/act-iac-emerging-technology-coi-may-2021>
 
-[When it is time join the Zoom Meeting here](https://www.zoomgov.com/j/1600857507?pwd=NHRHSmhLNTZLNUNoRUNwSWFZb3V5dz09)
+## Next Meeting on 6/2/2022
 
-Meeting ID: 160 085 7507
-Passcode: 757776
+Don Lovett is inviting you to a scheduled Zoom meeting.
+
+Join Zoom Meeting
+https://us06web.zoom.us/j/82468542235?pwd=amlEaDRvWU1SYysvclhMVGQzY2Jjdz09
+
+Meeting ID: 824 6854 2235
+Passcode: iot
 One tap mobile
-+16692545252,,1600857507#,,,,*757776# US (San Jose)
-+16468287666,,1600857507#,,,,*757776# US (New York)
-
++16465588656,,82468542235#,,,,*808816# US (New York)
++13017158592,,82468542235#,,,,*808816# US (Washington DC)
 ## Calendar
 
 ### Working Group
@@ -42,29 +46,6 @@ Tuesday, May 18, 2021 - 10:00 AM - 11:30 AM EDT
 🟠 INSIGHT: Prior February 24 meeting | https://bit.ly/33b4FK2 🎙
 
 ![](2022-02-18-10-28-04.png)
-
-### Coming Soon - IoT Smart Community Learning Series Podcasts
-
-Let's light this candle: the first in our much anticipated six-month IoT and Smart Cities learning series for the ACT-IAC IoT Working Group is coming.
-
-For background, the series will include :
-
-* • IoT x Smart Cities
-* • IoT x Infrastructure
-* • IoT x Participation
-* • IoT x Data
-* • IoT x Safety
-* • IoT x Climate
-
-Each session will be approximately/at most 45 minutes total, including introductions, five(ish) minute presentations by speakers), and moderated discussion. We will deep dive into this for the first session in a follow-up email and will post here.
-
-Our speakers for the first session, moderated by Justin Herman, will include:
-• Dan Morgan, chief data officer, U.S. Department of Transportation, and ACT-IAC IoT Working Group Government Sponsor
-• Scott Lemon, principle IoT solutions engineer, Twilio
-• Chelsea Collier, founder of Digi.City, editor-at-large of Smart Cities Connect and co-author of The Smart Cities Playbook
-Berrak, from Twilio IoT Marketing, and Chelsea (both cc'ed) will both be promoting this among the national IoT and Smart Cities community, and we will have a promotional image created in order to help achieve that.
-
-These sessions will be open to anyone to build a robust community going into the new year, so let's plan to open the doors wide.
 
 Stay tuned for more details
 
@@ -220,11 +201,10 @@ The COIs provide a government-driven, objective, vendor-neutral, ethical forum w
 
 ### Co-Leads
 
-Government Sponsor   Dan Morgan  daniel.morgan@dot.gov
+Government Sponsor  Open
 
 * Michael Berkholtz - Gov Co-chair  michael.berkholtz@gsa.gov
 * Danielle Graham - Gov Co-chair  danielle.m.graham@gsa.gov
-* Justin Herman - Industry Co-chair  jherman@twilio.com
 * Pete Tseronis - Industry Co-chair      pete@dotsandbridges.com
 * Don Lovett - Industry Co-chair           don@projectbits.com
 
